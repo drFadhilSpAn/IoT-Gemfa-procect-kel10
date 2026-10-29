@@ -1,0 +1,15 @@
+{
+  "project_id": "shakewatch_fadhil_k07_2026",
+  "device_id": "edge_b",
+  "mqtt_host": "broker.hivemq.com",
+  "mqtt_port": 8883,
+  "tls": true,
+  "username": "",
+  "password": "",
+  "sensor_query": "accelerometer,gyroscope",
+  "sample_interval_sec": 0.5,
+  "window_size": 10,
+  "motion_threshold": 0.7,
+  "rotation_threshold": 0.25,
+  "alert_cooldown_sec": 5
+}
